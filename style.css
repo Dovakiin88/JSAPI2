@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: azure;
+}
+body{
+    background-image: url("d1.jpg") ;
+}
+.container{
+    background-color: rgb(101, 101, 160);
+
+}
+
+#bit{
+    background-color: rgb(38, 99, 99);
+    height: px;
+    width: 100px;
+    position: absolute;
+    top: 13%;
+    left: 20%;
+    margin: 20px;
+}
+
+#eth{
+    background-color: rgb(38, 99, 99);
+    height: px;
+    width: 100px;
+    position: absolute;
+    top: 17.5%;
+    left: 20%;
+    margin: 20px;   
+}
